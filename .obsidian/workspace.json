@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "823c22c86f6387fa",
+        "id": "b22bcb1679c3fabd",
         "type": "tabs",
         "children": [
           {
-            "id": "899025bc6092e93f",
+            "id": "5a7f5a0e92a9adb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-03-09.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,6 @@
       {
         "id": "409aae915604ee0e",
         "type": "tabs",
-        "dimension": 65.95528455284553,
         "children": [
           {
             "id": "56b0d960c6a28c12",
@@ -41,21 +36,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "26c52babfd146b4b",
-        "type": "tabs",
-        "dimension": 34.04471544715447,
-        "children": [
-          {
-            "id": "74922bddfb30a1c3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -71,23 +51,14 @@
       {
         "id": "eda9c9a51cb8ed07",
         "type": "tabs",
+        "dimension": 32.11991434689507,
         "children": [
-          {
-            "id": "0f37bb8f184fe2a7",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
           {
             "id": "d5707898d61cac4d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2023-03-09.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,20 +96,11 @@
             }
           },
           {
-            "id": "8ba972879bdd8b8b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "74d246b465b7c573",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +117,39 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e66613e407dd6604",
+        "type": "tabs",
+        "dimension": 42.25553176302641,
+        "children": [
+          {
+            "id": "0f37bb8f184fe2a7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7304b900969e4e9",
+        "type": "tabs",
+        "dimension": 25.624553890078516,
+        "children": [
+          {
+            "id": "868e238e1f90d9e5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -169,60 +160,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "899025bc6092e93f",
+  "active": "5a7f5a0e92a9adb4",
   "lastOpenFiles": [
-    "Daily Notes/2023-03-09.md",
-    "Daily Notes/2023-03/2023-03-07.md",
-    "Daily Notes/2023-03/2023-03-08.md",
-    "Meetings/2023-03/2023-03-09 test.md",
-    "Templates/Daily Notes Template.md",
-    "Templates/Meeting Template.md",
-    "Meetings/2023-03/Untitled.md",
-    "Daily Notes/2023-03/2023-03-09.md",
-    "Templates/Untitled.md",
-    "2023-03-09 0849.md",
-    "Meetings/2023-03/2023-03-09 Meeting with Somebody.md",
-    "Meetings/2023-03/2023-03-09 Test Slides.md",
-    "2023-03-09 0840.md",
-    "Daily Notes/Untitled.md",
-    "Daily Notes/2023-03",
+    "Calendar/2023-03-09.md",
+    "+ Notes/TODO.md",
+    "Home.md",
+    "+ Notes/Untitled.md",
+    "+ Notes/Untitled 2.md",
+    "Calendar/Meetings/Untitled 1.md",
+    "Calendar/Meetings/Untitled.md",
+    "Spaces/Example/Example.md",
+    "+ Notes/Untitled 4.md",
+    "+ Notes/Untitled 3.md",
+    "+ Notes/Untitled 1.md",
+    "Index/Spaces.md",
+    "Spaces/Example/Untitled.md",
+    "+ Notes/Spaces.md",
+    "Index",
+    "Spaces/Example",
+    "Spaces/Test/+ About Test.md",
+    "Spaces/Test/Untitled.md",
+    "Extras/Templates/Template, Meeting.md",
+    "Extras/Templates/Template, Daily.md",
+    "Extras/Templates/Template, Event.md",
+    "Extras/Templates/Template, Note.md",
+    "Index/Daily Notes.md",
+    "Index/New Unsorted Notes.md",
+    "Spaces/Test/info.md",
+    "Calendar/Meetings/Meeting with Blah.md",
+    "Projects/Untitled.md",
+    "Spaces/Test",
+    "Spaces",
+    "+ Notes/test note.md",
+    "Index",
+    "+ Notes",
+    "Extras/Attachments",
+    "Calendar/Meetings",
+    "Daily Notes",
+    "Calendar",
     "Untitled.canvas",
-    "test.png.md",
     "Meetings/2023-03/_attachments/Pasted image 20230309081216.png",
-    "Meetings/2023-03/2023-03-09 Meeting with Josh.md",
-    "Meetings/2023-03",
-    "2023-03-09 0823.md",
-    "2023-03-09 0827.md",
-    "2023-03-09 0826.md",
-    "Untitled.md",
-    "2023-03-09 0822.md",
-    "Meetings/Untitled.md",
-    "2023-03-09 0813.md",
-    "2023-03-09 0814.md",
-    "Meetings/2023-03/_attachments",
-    "2023-03-09 0809.md",
     "Daily Notes/_attachments/test.png",
-    "Daily Notes/_attachments",
-    "Pasted image 20230309080816.png.md",
     "Daily Notes/attachments/Pasted image 20230309080816.png",
-    "Daily Notes/attachments",
-    "Daily Notes/requirements.txt",
     "Daily Notes/Pasted image 20230309080606.png",
     "Pasted image 20230309075910.png",
-    "Meetings",
-    "Templates",
-    "March",
-    "Daily Notes",
     "Untitled 1.canvas"
   ]
 }

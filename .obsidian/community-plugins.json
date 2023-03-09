@@ -1,5 +1,7 @@
 [
-  "calendar",
   "table-editor-obsidian",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "periodic-notes",
+  "calendar",
+  "dataview"
 ]

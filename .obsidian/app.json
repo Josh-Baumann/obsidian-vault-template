@@ -7,10 +7,12 @@
   },
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
-  "attachmentFolderPath": "./_attachments",
-  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Extras/Attachments",
+  "showUnsupportedFiles": false,
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "showInlineTitle": false,
+  "newFileFolderPath": "+ Notes"
 }
