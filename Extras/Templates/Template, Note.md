@@ -1,4 +1,4 @@
-up:: 
+up::
 tags:: 
 
-# {{title}}
+# {{value}}

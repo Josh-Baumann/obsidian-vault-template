@@ -1,12 +1,4 @@
 {
-  "file-explorer:new-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "zk-prefixer": [
     {
       "modifiers": [
@@ -19,6 +11,23 @@
     {
       "modifiers": [
         "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:02167c1b-f3fd-46b8-a51d-414e57c7b1fb": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "quickadd:choice:c881656a-66dc-4ca4-8746-8b7bb6ed0ad3": [
+    {
+      "modifiers": [
+        "Mod"
       ],
       "key": "N"
     }

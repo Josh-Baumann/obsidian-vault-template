@@ -1,0 +1,74 @@
+{
+  "choices": [
+    {
+      "id": "02167c1b-f3fd-46b8-a51d-414e57c7b1fb",
+      "name": "Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Extras/Templates/Template, Meeting.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}} {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Calendar/Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c881656a-66dc-4ca4-8746-8b7bb6ed0ad3",
+      "name": "Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Extras/Templates/Template, Note.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "+ Notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Extras/Templates",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+  }
+}

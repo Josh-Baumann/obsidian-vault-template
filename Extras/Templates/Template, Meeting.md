@@ -1,5 +1,5 @@
-# {{title}}
-dates:: {{date}} {{time}}
+# {{value}}
+dates:: {{date}}
 tags:: #log/meeting
 
 ## Attendees

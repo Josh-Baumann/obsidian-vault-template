@@ -3,5 +3,7 @@
   "obsidian-checklist-plugin",
   "periodic-notes",
   "calendar",
-  "dataview"
+  "dataview",
+  "quickadd",
+  "tag-wrangler"
 ]

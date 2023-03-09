@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b22bcb1679c3fabd",
+        "id": "c4c6c7cd39818dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7f5a0e92a9adb4",
+            "id": "b467de5e41049b31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +150,7 @@
       {
         "id": "b7304b900969e4e9",
         "type": "tabs",
-        "dimension": 25.624553890078516,
+        "dimension": 25.624553890078513,
         "children": [
           {
             "id": "868e238e1f90d9e5",
@@ -166,49 +174,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:Open today's daily note": false,
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "5a7f5a0e92a9adb4",
+  "active": "56b0d960c6a28c12",
   "lastOpenFiles": [
-    "Calendar/2023-03-09.md",
-    "+ Notes/TODO.md",
+    "Spaces/Example/Example Info.md",
     "Home.md",
+    "+ Notes/test.md",
+    "Calendar/Meetings/2023-03-09 new meeting.md",
+    "Untitled.canvas",
+    "Extras/Templates/Template, Note.md",
+    "Calendar/2023-03-09.md",
+    "Calendar/Meetings/2023-03-09 test.md",
+    "Extras/Templates/Template, Event.md",
+    "Extras/Templates/Template, Daily.md",
+    "Extras/Templates/Template, Meeting.md",
+    "Spaces/Example/Example.md",
     "+ Notes/Untitled.md",
+    "test.md",
+    "Calendar/Meetings/2023-03-09 test test test.md",
+    "Calendar/Meetings/2023-03-09 test test.md",
+    "Calendar/Meetings/2023-03-09 New Meeting.md",
+    "2023-03-09 new meeting.md",
+    "+ Notes/TODO.md",
     "+ Notes/Untitled 2.md",
     "Calendar/Meetings/Untitled 1.md",
     "Calendar/Meetings/Untitled.md",
-    "Spaces/Example/Example.md",
     "+ Notes/Untitled 4.md",
     "+ Notes/Untitled 3.md",
     "+ Notes/Untitled 1.md",
     "Index/Spaces.md",
     "Spaces/Example/Untitled.md",
-    "+ Notes/Spaces.md",
     "Index",
     "Spaces/Example",
-    "Spaces/Test/+ About Test.md",
-    "Spaces/Test/Untitled.md",
-    "Extras/Templates/Template, Meeting.md",
-    "Extras/Templates/Template, Daily.md",
-    "Extras/Templates/Template, Event.md",
-    "Extras/Templates/Template, Note.md",
-    "Index/Daily Notes.md",
-    "Index/New Unsorted Notes.md",
-    "Spaces/Test/info.md",
-    "Calendar/Meetings/Meeting with Blah.md",
-    "Projects/Untitled.md",
     "Spaces/Test",
     "Spaces",
-    "+ Notes/test note.md",
     "Index",
     "+ Notes",
     "Extras/Attachments",
     "Calendar/Meetings",
     "Daily Notes",
     "Calendar",
-    "Untitled.canvas",
     "Meetings/2023-03/_attachments/Pasted image 20230309081216.png",
     "Daily Notes/_attachments/test.png",
     "Daily Notes/attachments/Pasted image 20230309080816.png",
