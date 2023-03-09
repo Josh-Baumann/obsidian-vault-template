@@ -1,0 +1,16 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./_attachments",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}
