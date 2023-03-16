@@ -1,9 +1,9 @@
-tags:: #map/view 
+#map
 
 # Spaces
 ```dataview
 list
-from "Spaces" and #map/view 
+from "Spaces" and #map
 sort file.name desc
 ```
 

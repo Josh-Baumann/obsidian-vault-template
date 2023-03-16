@@ -1,6 +1,7 @@
 # {{title}}
 dates:: {{date}} {{time}}
-tags:: #log/event
+
+#log/event
 
 ## Attendees
 - 

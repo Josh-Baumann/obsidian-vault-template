@@ -1,6 +1,7 @@
 # {{value}}
 dates:: {{date}}
-tags:: #log/meeting #task/action
+
+#log/meeting #task/action
 
 ## Attendees
 - 
