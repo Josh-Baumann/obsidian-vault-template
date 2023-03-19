@@ -3,6 +3,9 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "translucency": false,
-  "cssTheme": "Things",
-  "theme": "obsidian"
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

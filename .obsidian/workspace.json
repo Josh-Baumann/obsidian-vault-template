@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ccb4424c5dc4a31",
+        "id": "7f88af06680d4d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f30035f492f02b32",
+            "id": "3de2f4fdde554334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 1691.5
   },
   "right": {
     "id": "2d6edebd1625db9b",
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +125,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "e66613e407dd6604",
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,19 +180,19 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f30035f492f02b32",
+  "active": "56b0d960c6a28c12",
   "lastOpenFiles": [
-    "Spaces/CisLunar/CisLunar.md",
-    "Home.md",
     "Spaces/CisLunar/AFRL CisLunar Primer.md",
+    "Home.md",
+    "Extras/Templates/Template, Daily.md",
+    "Extras/Templates/Template, MOC.md",
+    "Extras/Templates/Template, Note.md",
+    "Spaces/CisLunar/CisLunar.md",
+    "Calendar/2023/2023-03-19 Sun.md",
+    "Extras/Templates/Template, Meeting.md",
     "Extras/Templates/Template, Event.md",
     "Calendar/2023/2023-03-13 Mon.md",
-    "Extras/Templates/Template, Meeting.md",
-    "Calendar/2023/2023-03-19 Sun.md",
     "Calendar/event.md",
-    "Extras/Templates/Template, Note.md",
-    "Extras/Templates/Template, MOC.md",
-    "Extras/Templates/Template, Daily.md",
     "Calendar/Meetings/2023-03-19 josh.md",
     "Calendar/Meetings/2023-03-19 test2.md",
     "Calendar/Meetings/2023-03-19 test1.md",

@@ -18,8 +18,9 @@ from "Spaces" and #map
 sort file.name desc
 ```
 
+-------------------------------
 
-# New Notes
+# Unsorted Notes
 These notes need to be sorted.
 ``` dataview
 TABLE WITHOUT ID
