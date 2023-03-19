@@ -1,8 +1,4 @@
-up:: [[+ CisLunar]]
-
-#cislunar 
-
-# AFRL CisLunar Primer
+[[CisLunar]]
 
 Reference: https://www.afrl.af.mil/Portals/90/Documents/RV/A%20Primer%20on%20Cislunar%20Space_Dist%20A_PA2021-1271.pdf?ver=vs6e0sE4PuJ51QC-15DEfg%3D%3D
 
@@ -29,3 +25,4 @@ Reference: https://www.afrl.af.mil/Portals/90/Documents/RV/A%20Primer%20on%20Cis
 	- A halo orbit is a periodic, three-dimensional orbit near one of the L1, L2 or L3 Lagrange points in the three-body problem of orbital mechanics.
 - Lyapunov orbits
 	- Periodic orbit near L3, L4, L5
+

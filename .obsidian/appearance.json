@@ -3,5 +3,6 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "Things",
+  "theme": "obsidian"
 }

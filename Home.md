@@ -1,17 +1,29 @@
 #map
 
+# Projects
+```dataview
+TABLE WITHOUT ID
+ file.link as ""
+
+from "Projects" and #map
+sort file.name desc
+```
+
 # Spaces
 ```dataview
-list
+TABLE WITHOUT ID
+ file.link as ""
+
 from "Spaces" and #map
 sort file.name desc
 ```
+
 
 # New Notes
 These notes need to be sorted.
 ``` dataview
 TABLE WITHOUT ID
- file.link as "New Notes",
+ file.link as "",
  (date(today) - file.cday).day as "Days Alive"
 
 FROM "+ Notes" and -#on/readme 

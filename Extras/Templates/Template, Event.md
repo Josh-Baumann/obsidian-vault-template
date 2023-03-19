@@ -1,5 +1,4 @@
-# {{title}}
-dates:: {{date}} {{time}}
+{{date}} {{time}}
 
 #log/event
 

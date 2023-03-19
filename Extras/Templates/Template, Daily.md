@@ -1,5 +1,3 @@
-dates:: {{date}}
-
 #log/journal #task/todo
 
 ## TODO

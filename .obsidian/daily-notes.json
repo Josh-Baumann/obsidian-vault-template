@@ -2,5 +2,5 @@
   "folder": "Calendar",
   "template": "Extras/Templates/Template, Daily",
   "autorun": true,
-  "format": "YYYY/MM/YYYY-MM-DD ddd"
+  "format": "YYYY/YYYY-MM-DD ddd"
 }

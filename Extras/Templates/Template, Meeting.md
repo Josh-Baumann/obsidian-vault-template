@@ -1,5 +1,4 @@
-# {{value}}
-dates:: {{date}}
+{{DATE:HH:MM}} 
 
 #log/meeting #task/action
 

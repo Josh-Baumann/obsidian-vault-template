@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0742300a6174e703",
+        "id": "2ccb4424c5dc4a31",
         "type": "tabs",
         "children": [
           {
-            "id": "a280c6d32a61f091",
+            "id": "f30035f492f02b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,8 +93,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#map",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -131,7 +131,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e66613e407dd6604",
@@ -178,45 +179,46 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d5707898d61cac4d",
+  "active": "f30035f492f02b32",
   "lastOpenFiles": [
+    "Spaces/CisLunar/CisLunar.md",
     "Home.md",
     "Spaces/CisLunar/AFRL CisLunar Primer.md",
+    "Extras/Templates/Template, Event.md",
+    "Calendar/2023/2023-03-13 Mon.md",
+    "Extras/Templates/Template, Meeting.md",
+    "Calendar/2023/2023-03-19 Sun.md",
+    "Calendar/event.md",
+    "Extras/Templates/Template, Note.md",
+    "Extras/Templates/Template, MOC.md",
+    "Extras/Templates/Template, Daily.md",
+    "Calendar/Meetings/2023-03-19 josh.md",
+    "Calendar/Meetings/2023-03-19 test2.md",
+    "Calendar/Meetings/2023-03-19 test1.md",
+    "Calendar/Meetings/2023-03-19 test.md",
+    "Calendar/Meetings/2023-03-19 test3.md",
+    "Calendar/2023/03/2023-03-19 Sun.md",
+    "+ Notes/note.md",
+    "Projects/Test/test.md",
+    "Projects/Test/Untitled.md",
+    "Projects/Test",
+    "new MOC.md",
+    "+ Notes/Untitled.md",
+    "Projects",
     "Calendar/2023/03/2023-03-16 Thu.md",
     "Untitled.canvas",
-    "Extras/Templates/Template, Event.md",
-    "Extras/Templates/Template, Meeting.md",
-    "Extras/Templates/Template, Note.md",
-    "Extras/Templates/Template, Daily.md",
-    "Spaces/CisLunar/+ CisLunar.md",
     "Calendar/2023/03/2023-03-15 Wed.md",
     "Calendar/2023/03",
     "Calendar/2023/2023-03-16.md",
     "Calendar/2023-03-16.md",
     "Calendar/2023",
-    "2023-03-15.md",
-    "+ Notes/new note.md",
     "Spaces/CisLunar/Refs",
-    "2023-03-17.md",
-    "2023-03-09.md",
-    "2023-03-16.md",
     "Extras/Attachments/CisLunar Orbits.png",
-    "Spaces/CisLunar/Untitled.md",
-    "Spaces/Example/Example.md",
-    "Spaces/Example/Example Info.md",
-    "Spaces/Untitled.md",
     "Spaces/CisLunar",
-    "+ Notes/test.md",
-    "Calendar/Meetings/2023-03-09 new meeting.md",
-    "Calendar/2023-03-09.md",
-    "Calendar/Meetings/2023-03-09 test.md",
-    "+ Notes/Untitled.md",
     "Index",
     "Spaces/Example",
     "Spaces/Test",
     "Spaces",
-    "Index",
-    "+ Notes",
     "Meetings/2023-03/_attachments/Pasted image 20230309081216.png",
     "Daily Notes/_attachments/test.png",
     "Daily Notes/attachments/Pasted image 20230309080816.png",
