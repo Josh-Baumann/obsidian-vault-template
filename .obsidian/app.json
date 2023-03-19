@@ -11,7 +11,9 @@
   "attachmentFolderPath": "Extras/Attachments",
   "showUnsupportedFiles": false,
   "userIgnoreFilters": [
-    "Templates/"
+    "Extras/",
+    "Extras/Attachments/",
+    "Extras/Attachments/"
   ],
   "showInlineTitle": true,
   "newFileFolderPath": "+ Notes"

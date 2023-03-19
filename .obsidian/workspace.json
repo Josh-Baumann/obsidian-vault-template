@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1691.5
+    "width": 379.5
   },
   "right": {
     "id": "2d6edebd1625db9b",
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md"
+                "file": "Home.md"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task/todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +125,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/CisLunar/AFRL CisLunar Primer.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e66613e407dd6604",
@@ -166,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +178,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "56b0d960c6a28c12",
+  "active": "3de2f4fdde554334",
   "lastOpenFiles": [
     "Spaces/CisLunar/AFRL CisLunar Primer.md",
+    "+ Notes/scratchpad.md",
+    "+ Notes/Scratchpad.md",
     "Home.md",
     "Extras/Templates/Template, Daily.md",
     "Extras/Templates/Template, MOC.md",
@@ -204,14 +204,12 @@
     "Projects/Test/Untitled.md",
     "Projects/Test",
     "new MOC.md",
-    "+ Notes/Untitled.md",
     "Projects",
     "Calendar/2023/03/2023-03-16 Thu.md",
     "Untitled.canvas",
     "Calendar/2023/03/2023-03-15 Wed.md",
     "Calendar/2023/03",
     "Calendar/2023/2023-03-16.md",
-    "Calendar/2023-03-16.md",
     "Calendar/2023",
     "Spaces/CisLunar/Refs",
     "Extras/Attachments/CisLunar Orbits.png",
